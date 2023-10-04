@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">House Hold</string>
+
+    <!--    <string name="default_web_client_id" translatable="false">965561618104-oj2herqba4agdmit35sneuibgt9k8tip.apps.googleusercontent.com</string>-->
+    <!--    <string name="gcm_defaultSenderId" translatable="false">965561618104</string>-->
+    <!--    <string name="google_api_key" translatable="false">AIzaSyDbx484La0pFsvnyUaCzHVKzpE3CApeEE8</string>-->
+    <!--    <string name="google_app_id" translatable="false">1:965561618104:android:0a05bde0ba546d62b5ee4d</string>-->
+    <!--    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDbx484La0pFsvnyUaCzHVKzpE3CApeEE8</string>-->
+    <!--    <string name="google_storage_bucket" translatable="false">olx-clone-8272e.appspot.com</string>-->
+    <!--    <string name="project_id" translatable="false">olx-clone-8272e</string>-->
+
+    <string name="not_have_account_register">Not have Account? <b>Register</b></string>
+    <string name="forgot_password_recover">Forgot Password? <b>Recover</b></string>
+    <string name="didn_t_receive_otp_resend">Didn\'t Receive OTP? <b>Resend</b></string>
+    <string name="already_have_account_login">Already have account? <b>Login</b></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1098919894302",
+    "project_id": "house-hold-89e89",
+    "storage_bucket": "house-hold-89e89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098919894302:android:e56491b2d364a7eadf3d0f",
+        "android_client_info": {
+          "package_name": "com.jaytaravia.household"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098919894302-dl47pl3dilvhnu61021hmjeipq62b1nu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcpNRwIl6vXdJGt3ZSbQ7M9q03De5_tKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098919894302-dl47pl3dilvhnu61021hmjeipq62b1nu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
